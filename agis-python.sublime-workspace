@@ -1,0 +1,1376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"theme",
+				"themeEngine〔variable〕"
+			],
+			[
+				"nucl",
+				"nucloud_map_id"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"in",
+				"integration"
+			],
+			[
+				"inte",
+				"integrations"
+			],
+			[
+				"integra",
+				"integrations"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"att",
+				"attraction〔argument〕"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"url",
+				"urlParameterService〔argument〕"
+			],
+			[
+				"po",
+				"prototype〔variable〕"
+			],
+			[
+				"items",
+				"itemsMap"
+			],
+			[
+				"vendo",
+				"vendors〔argument〕"
+			],
+			[
+				"get",
+				"getJSON〔function〕"
+			],
+			[
+				"chart",
+				"chartData"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"share",
+				"share-url"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"key",
+				"keyboard"
+			],
+			[
+				"info",
+				"infowindow"
+			],
+			[
+				"input",
+				"input_html"
+			],
+			[
+				"ima",
+				"image_tag\tcreate a image\terb"
+			],
+			[
+				"mapper",
+				"mapperData"
+			],
+			[
+				"error",
+				"errorHtml"
+			],
+			[
+				"not",
+				"noticeType〔variable〕"
+			],
+			[
+				"update",
+				"updateMarkers"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"show",
+				"showIllustrationView"
+			],
+			[
+				"geo",
+				"geoView〔variable〕"
+			],
+			[
+				"defa",
+				"defaultBaseMap〔argument〕"
+			],
+			[
+				"ge",
+				"geoView〔variable〕"
+			],
+			[
+				"mark",
+				"markerLayer〔variable〕"
+			],
+			[
+				"parse",
+				"parseFloat〔function〕"
+			],
+			[
+				"user",
+				"userSettings"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git diff curr",
+				"Git: Diff Current File"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"git check cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"git chec",
+				"Git: Checkout"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"git chec curr",
+				"Git: Checkout Current File"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax html ra",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git check curr",
+				"Git: Checkout Current File"
+			],
+			[
+				"git di cu",
+				"Git: Diff Current File"
+			],
+			[
+				"forma",
+				"Format: CSS"
+			],
+			[
+				"syntax shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn plan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"git di",
+				"Git: Diff"
+			],
+			[
+				"log",
+				"git: log current file"
+			],
+			[
+				"git df",
+				"Git: Diff Current File"
+			],
+			[
+				"sublime server",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"syntax less",
+				"Set Syntax: LESS"
+			],
+			[
+				"html boi",
+				"Snippet: htmlboiler"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"git checkout curr",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff cu",
+				"Git: Diff Current File"
+			],
+			[
+				"gitc",
+				"Git: Checkout"
+			],
+			[
+				"git checkut curr",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff curre",
+				"Git: Diff Current File"
+			],
+			[
+				"git dif curre",
+				"Git: Diff Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"beau",
+				"BeautifyRuby"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"formar r",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"syntax apache",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"syntax log",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"syntax apac",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"git lo",
+				"Git: Log"
+			],
+			[
+				"git log curr",
+				"git: log current file"
+			],
+			[
+				"syntax xml",
+				"Set Syntax: XML"
+			],
+			[
+				"git diff ",
+				"Git: Diff"
+			],
+			[
+				"wrd",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git checkout",
+				"Git: Checkout"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git log current",
+				"git: log current file"
+			],
+			[
+				"todo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"todo ",
+				"TodoReview: Project Files"
+			],
+			[
+				"git log cur",
+				"git: log current file"
+			],
+			[
+				"wprd",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"syntax javascript ra",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"syntax javac",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"enable pack ",
+				"Package Control: Enable Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax html rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"syntax rails ",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"syntax erb",
+				"Set Syntax: ERB"
+			],
+			[
+				"git log cu",
+				"git: log current file"
+			],
+			[
+				"git lig cur",
+				"Git: Quick Log Current File"
+			],
+			[
+				"git chec ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git checkout cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"format html",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"syntax html ",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"git diff curt",
+				"Git: Diff Current File"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"git diff current",
+				"Git: Diff Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff"
+			],
+			[
+				"syntax javasci",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"git dig",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"syntax rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"formar",
+				"Format: Javascript"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shaunak/code/python/agis-python"
+	],
+	"file_history":
+	[
+		"/Users/shaunak/code/nucloud_rails5/app/models/user.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/models/map.rb",
+		"/Users/shaunak/code/nucloud_rails5/.env",
+		"/Users/shaunak/code/nucloud_rails5/app/views/markers/_form.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/markers/edit.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/layouts/workbench.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench/workbench.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench/_layout.scss",
+		"/Users/shaunak/.zshrc",
+		"/Users/shaunak/code/nucloud_rails5/app/views/markers/index.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/layouts/_header.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/config/routes.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/controllers/workbench_controller.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/markers/_list.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench/_markers.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/views/layouts/application.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/markers/show.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/markers/new.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/uploaders/icon_uploader.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/models/icon.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/models/sound.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/uploaders/sound_uploader.rb",
+		"/Users/shaunak/code/nucloud_rails5/Gemfile.lock",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/defaults/defaults.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/application.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/defaults/_Font-awesome.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/views/maps/index.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/helpers/workbench_helper.rb",
+		"/Users/shaunak/code/nucloud_rails5/Gemfile",
+		"/Users/shaunak/code/nucloud_rails5/app/views/workbench/contact_form.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/workbench/preview.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/workbench/publish.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/workbench/settings.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/workbench/stops.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/workbench/themes.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/defaults/_Layout.scss",
+		"/Users/shaunak/code/nucloud_rails5/db/schema.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/layouts/_footer.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/helpers/markers_helper.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench/_stops.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench/_settings.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench/_publish.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench/_themes.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench/_preview.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench/_contact_form.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/views/workbench/_contact_form.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/workbench.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/controllers/maps_controller.rb",
+		"/Users/shaunak/code/nucloud_rails5/config/environments/staging.rb",
+		"/Users/shaunak/code/nucloud_rails5/.gitignore",
+		"/Users/shaunak/code/nucloud_rails5/tmp/cache/assets/sprockets/v3.0/GY/GYE3TiyIGraqnQCCUI8UuaiKERx4jhvdBOb_7IukUYk.cache",
+		"/Users/shaunak/code/nucloud_rails5/config/application.rb",
+		"/Users/shaunak/code/nucloud_rails5/.ruby-version",
+		"/Users/shaunak/code/nucloud/public/nucloudmap/js/app/lib/popup.js",
+		"/Users/shaunak/code/nucloud/app/models/marker.rb",
+		"/Users/shaunak/code/nucloud/app/assets/javascripts/popup.js",
+		"/Users/shaunak/code/sites/slr_v3/.gitignore",
+		"/Users/shaunak/code/sites/slr_v3/package.json",
+		"/Users/shaunak/code/sites/slr_v3/Gruntfile.js",
+		"/Users/shaunak/code/nucloud/app/workers/analytics_worker.rb",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/scss/style.scss",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/theme-config.json",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/scss/_layout.scss",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/stop.html",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/.libsass.json",
+		"/Users/shaunak/Library/Application Support/Sublime Text 3/Packages/Libsass Build/Libsass Build.sublime-settings",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/scss",
+		"/Users/shaunak/code/nucloud/app/controllers/maps_controller.rb",
+		"/Users/shaunak/code/nucloud/public/stop-themes/default/stop.html",
+		"/Users/shaunak/code/nucloud/app/uploaders/icon_uploader.rb",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/js/script.js",
+		"/Users/shaunak/code/nucloud/public/nucloudmap/js/app/integrations/detroit-wp.js",
+		"/Users/shaunak/code/nucloud/log/development.log",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/css/style.css",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/css/panel.css",
+		"/Users/shaunak/code/nucloud/public/nucloudmap/js/app/lib/themes.js",
+		"/Users/shaunak/code/nucloud/app/assets/javascripts/themes.js",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/css/main.css",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/index.html",
+		"/Users/shaunak/code/nucloud/public/stop-themes/default/css/style.css",
+		"/Users/shaunak/code/nucloud/public/uploads/map/17/themes/material/theme-config.json",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/css/fonts.css",
+		"/Users/shaunak/code/nucloud/log/test.log",
+		"/Users/shaunak/code/nucloud/config/initializers/carrierwave.rb",
+		"/Users/shaunak/code/nucloud/public/stop-themes/material/js/main.js",
+		"/Users/shaunak/code/nucloud/app/views/workbench/_themes.html.erb",
+		"/Users/shaunak/code/nucloud/config/configatron/defaults.rb",
+		"/Users/shaunak/code/nucloud/public/uploads/map/17/map_settings.json",
+		"/Users/shaunak/.ssh/known_hosts",
+		"/Users/shaunak/.ssh/shaunak.pub",
+		"/Users/shaunak/.ssh/conf",
+		"/Users/shaunak/.ssh/.shaunak.pub",
+		"/Users/shaunak/code/nucloud/Gemfile",
+		"/Users/shaunak/code/nucloud/app/controllers/icons_controller.rb",
+		"/Users/shaunak/code/nucloud/.env",
+		"/Users/shaunak/.bash_profile",
+		"/Users/shaunak/code/nucloud/.ruby-gemset",
+		"/Users/shaunak/code/nucloud/.ruby-version",
+		"/Users/shaunak/.aws/config",
+		"/Users/shaunak/code/nucloud/log/capistrano.log",
+		"/Users/shaunak/code/nucloud/.env.example",
+		"/Users/shaunak/code/nucloud/.gitignore",
+		"/Users/shaunak/code/nucloud/.zshrc",
+		"/Users/shaunak/code/nucloud/app/views/maps/_form.html.erb",
+		"/Users/shaunak/code/nucloud/app/models/map.rb",
+		"/Users/shaunak/code/nucloud/app/views/home/index.html.erb",
+		"/Users/shaunak/code/nucloud/app/workers/tile_worker.rb",
+		"/Users/shaunak/Desktop/detroit stats.txt",
+		"/Users/shaunak/code/nucloud/Gemfile.lock",
+		"/Users/shaunak/code/nucloud/config/routes.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/defaults/_Forms.scss",
+		"/Users/shaunak/code/nucloud_rails5/Guardfile",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/defaults/defaults.css.scss",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/scaffold/_Form.sass",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/defaults/_Colors.css.scss",
+		"/Users/shaunak/code/nucloud_rails5/config/environments/development.rb",
+		"/Users/shaunak/code/nucloud_rails5/app/views/users/new.html.erb",
+		"/Users/shaunak/code/nucloud_rails5/app/assets/stylesheets/scaffold/_Color.sass",
+		"/Users/shaunak/code/nucloud/app/assets/stylesheets/integrations.css.scss",
+		"/Users/shaunak/code/nucloud/app/workers/settings_worker.rb",
+		"/Users/shaunak/code/nucloud/app/models/setting.rb",
+		"/Users/shaunak/code/nucloud/app/views/integrations/edit.html.erb",
+		"/Users/shaunak/code/nucloud/app/controllers/integrations_controller.rb",
+		"/Users/shaunak/code/nucloud/app/views/integrations/show.html.erb",
+		"/Users/shaunak/code/nucloud/app/views/maps/_list.html.erb",
+		"/Users/shaunak/code/nucloud/app/views/integrations/new.html.erb",
+		"/Users/shaunak/code/nucloud/db/migrate/20161207022839_change_type_column_name_for_integrations.rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/shaunak/code/nucloud/public/nucloudmap",
+			"/Users/shaunak/code/nucloud/app",
+			"/Users/shaunak/code/nucloud/app/views",
+			"/Users/shaunak/code/nucloud/public/nucloudmap/js",
+			"",
+			"/Users/shaunak/code/mapperkeeper/app",
+			"/Users/shaunak/code/nucloud/public/nucloudmap",
+			"/Users/shaunak/code/nucloud/app",
+			"/Users/shaunak/code/nucloud/app/views",
+			"/Users/shaunak/code/nucloud/app/controllers",
+			"/Users/shaunak/code/nucloud/app",
+			"/Users/shaunak/code/mapperkeeper/app",
+			"/Users/shaunak/code/mapperkeeper/lib/assets/mapper/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"belongs_to",
+			"blog",
+			",",
+			"order",
+			"layer",
+			"picture_ids",
+			"map-assets-dev.nucloud.com",
+			"h5",
+			"remote",
+			"markers",
+			"menu",
+			"fontawesome",
+			"''",
+			"active",
+			"div",
+			"%>\"",
+			"<%= ",
+			"menu",
+			"link_to",
+			"(map)",
+			"map",
+			"action",
+			":",
+			":    get",
+			"get ",
+			"controller:",
+			"workbench/",
+			"$workbench-header-height",
+			"62px",
+			"marker",
+			".scss",
+			"h3",
+			"<h3>",
+			"set_map",
+			"$",
+			"options",
+			"selectFeature",
+			"showNextStop",
+			"eventEnd",
+			"__endSliderNastyHackByYoursTrulySV",
+			"eventEnd",
+			"eventStart",
+			"attachEvent",
+			"eventStart",
+			"documentLeave",
+			"eventEnd",
+			"documentLeave",
+			"scope_Self",
+			"closure",
+			"setZindex",
+			"before",
+			"scope_HandleNumbers",
+			"setZindex",
+			"eventEnd",
+			"endEvent",
+			"mapEnter",
+			"eventEnd",
+			"mapEnter",
+			"documentLeave",
+			"eventMove",
+			"documentLeave",
+			"closure",
+			"api",
+			"fireEvent",
+			"attachEvent",
+			"actions",
+			"Actions",
+			"actions",
+			"getActions",
+			": ",
+			"150",
+			"width",
+			"wp-detroit",
+			"onInfoWindowLoad",
+			"themeEngine",
+			"infowindow",
+			".c",
+			".",
+			".rslides_tabs",
+			".infowindow .description{height:30%;}\n.nucloud-map .viewer-inner{max-height: 100px;}",
+			"showOn",
+			"img/",
+			"img",
+			"audio-player",
+			"onInfoWindowLoad",
+			"div",
+			"default",
+			"loadLayoutClassesInUI",
+			"layout",
+			"layour",
+			"loadLayoutClassesInUI",
+			"currentLayout",
+			"theme",
+			"configatron",
+			"export ",
+			"web",
+			"map_task",
+			"TileWorker",
+			"blog",
+			"guard",
+			"”",
+			"”,",
+			" !default",
+			"log",
+			"logger",
+			"save_settings_to_file",
+			"type",
+			"no_actions",
+			"</td>",
+			"integration",
+			"intehration",
+			"console",
+			"habitat.image_archive",
+			"svg",
+			"transperent #eee transperant transperant;",
+			"transperent red transperant transperant;",
+			"{",
+			"habitat",
+			"animal",
+			"photo",
+			"title",
+			"video_item",
+			"onInfoWindowLoad",
+			"themeEngine",
+			"themescript",
+			"onInfoWindowLoad\nonInfoWindowLoad",
+			"onInfoWindowLoad",
+			"vendor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vm.map."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 122.0
+	},
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 116.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "agis-python.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"modmap",
+				"app/models/map.rb"
+			],
+			[
+				"modmark",
+				"app/models/marker.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"workh",
+				"app/views/layouts/workbench.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"viewmapsindex",
+				"app/views/maps/index.html.erb"
+			],
+			[
+				"mapindex",
+				"app/views/maps/index.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"viewmapind",
+				"app/views/maps/index.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"workb",
+				"app/controllers/workbench_controller.rb"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				".gith",
+				"tmp/cache/assets/sprockets/v3.0/GY/GYE3TiyIGraqnQCCUI8UuaiKERx4jhvdBOb_7IukUYk.cache"
+			],
+			[
+				"slr.app",
+				"js/app/slr.app.js"
+			],
+			[
+				"map_cont",
+				"app/controllers/maps_controller.rb"
+			],
+			[
+				"upload",
+				"app/uploaders/icon_uploader.rb"
+			],
+			[
+				"popu",
+				"public/nucloudmap/js/app/lib/popup.js"
+			],
+			[
+				"detr",
+				"public/nucloudmap/js/app/integrations/detroit-wp.js"
+			],
+			[
+				"dev",
+				"log/development.log"
+			],
+			[
+				"iconscon",
+				"app/controllers/icons_controller.rb"
+			],
+			[
+				"logdev",
+				"log/development.log"
+			],
+			[
+				"mapcontr",
+				"app/controllers/maps_controller.rb"
+			],
+			[
+				"gemf",
+				"Gemfile.lock"
+			],
+			[
+				"guard",
+				"Guardfile"
+			],
+			[
+				"_form",
+				"app/assets/stylesheets/defaults/_Forms.css.scss"
+			],
+			[
+				"gua",
+				"Guardfile"
+			],
+			[
+				"confdev",
+				"config/environments/development.rb"
+			],
+			[
+				"removeuni",
+				"db/migrate/20161214031628_change_integrations_remove_unique_constraint.rb"
+			],
+			[
+				"migrateinte",
+				"db/migrate/20161207000531_create_integrations.rb"
+			],
+			[
+				"modsett",
+				"app/models/setting.rb"
+			],
+			[
+				"application",
+				"config/application.rb"
+			],
+			[
+				"intercont",
+				"app/controllers/integrations_controller.rb"
+			],
+			[
+				"modma",
+				"app/models/map.rb"
+			],
+			[
+				"modinte",
+				"app/models/integration.rb"
+			],
+			[
+				"changetypecolumnnameforintegrations",
+				"db/migrate/20161207022839_change_type_column_name_for_integrations.rb"
+			],
+			[
+				"setting",
+				"app/models/setting.rb"
+			],
+			[
+				"config",
+				"config/initializers/configatron.rb"
+			],
+			[
+				"migint",
+				"db/migrate/20161207000531_create_integrations.rb"
+			],
+			[
+				"migrationintegr",
+				"db/migrate/20160110010647_change_lat_lon_precision_in_map_settings.rb"
+			],
+			[
+				"moduser",
+				"app/models/user.rb"
+			],
+			[
+				"modint",
+				"app/models/integration.rb"
+			],
+			[
+				"_video_item.html.erb",
+				"app/views/videos/_video_item.html.erb"
+			],
+			[
+				"session",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sessions",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"homecon",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"modeluse",
+				"app/models/user.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"side",
+				"log/sidekiq.log"
+			],
+			[
+				"aws",
+				"config/initializers/aws.rb"
+			],
+			[
+				"aws.r",
+				"config/initializers/aws.rb"
+			],
+			[
+				"map",
+				"app/controllers/maps_controller.rb"
+			],
+			[
+				"carr",
+				"config/initializers/carrierwave.rb"
+			],
+			[
+				"devlo",
+				"log/development.log"
+			],
+			[
+				"publish",
+				"app/jobs/publish_map_job.rb"
+			],
+			[
+				"mapcon",
+				"app/controllers/maps_controller.rb"
+			],
+			[
+				"bootstrapfi",
+				"vendor/assets/javascripts/bootstrap-file-input.js"
+			],
+			[
+				"videcont",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"jquery.fileupload",
+				"vendor/assets/javascripts/jquery.fileupload.js"
+			],
+			[
+				"modvideo",
+				"app/models/video.rb"
+			],
+			[
+				"mapscon",
+				"app/controllers/maps_controller.rb"
+			],
+			[
+				"changename",
+				"db/migrate/20160717232542_change_name_in_themes.rb"
+			],
+			[
+				"createtheme",
+				"db/migrate/20140704032457_create_themes.rb"
+			],
+			[
+				"usercont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"modelvisi",
+				"app/models/visit.rb"
+			],
+			[
+				"modeluser",
+				"app/models/user.rb"
+			],
+			[
+				"workbenchcont",
+				"app/controllers/workbench_controller.rb"
+			],
+			[
+				"migratvis",
+				"db/migrate/20160717013724_create_visits.rb"
+			],
+			[
+				"modvisi",
+				"app/models/visit.rb"
+			],
+			[
+				"modvis",
+				"public/nucloudmap/node_modules/grunt-contrib-less/node_modules/less/test/browser/runner-modify-vars-spec.js"
+			],
+			[
+				"visit",
+				"app/models/visit.rb"
+			],
+			[
+				"mapcontroll",
+				"app/controllers/maps_controller.rb"
+			],
+			[
+				"maps.scss",
+				"lib/assets/mapper/css/map.scss"
+			],
+			[
+				"maps_index",
+				"app/views/maps/_index.html.erb"
+			],
+			[
+				"mapcont",
+				"app/controllers/maps_controller.rb"
+			],
+			[
+				"sucker",
+				"log/sucker_punch.log"
+			],
+			[
+				"suck",
+				"log/sucker_punch.log"
+			],
+			[
+				"suc",
+				"log/sucker_punch.log"
+			],
+			[
+				"sucke",
+				"log/sucker_punch.log"
+			],
+			[
+				"gemfilelock",
+				"Gemfile.lock"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"contrmap_",
+				"app/controllers/maps_controller.rb"
+			],
+			[
+				"migdisab",
+				"db/migrate/20150802201235_add_disable_stop_window_to_markers.rb"
+			],
+			[
+				"disablemous",
+				"db/migrate/20160712230418_add_disable_mouse_scroll_to_settings.rb"
+			],
+			[
+				"migrationsetting",
+				"db/migrate/20150802192145_add_search_in_description_to_settings.rb"
+			],
+			[
+				"map_form",
+				"app/views/maps/_form.html.erb"
+			],
+			[
+				"modmap.rb",
+				"app/models/map.rb"
+			],
+			[
+				"db/migrate/20160708031126_add_map_preview_to_maps.rb",
+				"db/migrate/20160708031126_add_map_preview_to_maps.rb"
+			],
+			[
+				"sessions/new.html.erb",
+				"app/views/devise/sessions/new.html.erb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"modelmap",
+				"app/models/map.rb"
+			],
+			[
+				"icon_for",
+				"app/views/icons/_form.html.erb"
+			],
+			[
+				"icon",
+				"app/models/icon.rb"
+			],
+			[
+				"upla",
+				"app/uploaders/map_uploader.rb"
+			],
+			[
+				"migrar",
+				"db/migrate/20140120192854_create_profiles.rb"
+			],
+			[
+				"mig",
+				"db/migrate/20140120062657_devise_create_users.rb"
+			],
+			[
+				"migrat",
+				"db/migrate/20140120191336_create_profiles.rb"
+			],
+			[
+				"migra",
+				"db/migrate/20140120191336_create_profiles.rb"
+			],
+			[
+				"devise.",
+				"config/initializers/devise.rb"
+			],
+			[
+				"rea",
+				"README.rdoc"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"main",
+				"javascripts/app/lca.main.js"
+			],
+			[
+				"ind",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
