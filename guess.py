@@ -1,5 +1,5 @@
 min = 0
-max = 100
+max = 10
 
 print "Think of a number from", min, 'to', max
 
@@ -12,5 +12,6 @@ while True:
 	elif ans == 'l':
 		min = guess	
 	else:
-		max = guess
+		max = guess	
+		break
 
